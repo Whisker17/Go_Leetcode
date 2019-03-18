@@ -1,4 +1,4 @@
-package main
+package __two_sum
 
 /*func twoSum(nums []int, target int) []int {
 	l := len(nums)
